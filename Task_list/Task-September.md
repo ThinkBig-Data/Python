@@ -14,6 +14,6 @@ Yash - Decimal To Binary
 
 Deepak - LCM
 
-Arjun - Word Count on String
+Arjun - Word Count in a sentence
 
 
