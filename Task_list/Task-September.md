@@ -2,18 +2,18 @@
 
 ### Python List Of Available Programs:
 
-Ashish - List Slicing 
+Ashish - exception handling 
 
-Rakesh - Reverse straing using various methods
+Rakesh - regular expressions
 
-Mukul - Find the position of any English alphabet in any string
+Mukul - conditional statements
 
-Sudhir - Binary to Decimal
+Sudhir - simple classes and pbjects jn python
 
-Yash - Decimal To Binary
+Yash - patterns*(4 atleast)
 
-Deepak - LCM
+Deepak - program to remove empty tuples from list
 
-Arjun - Word Count in a sentence
+Arjun - count the no. Of matching patterns in a string 
 
 
