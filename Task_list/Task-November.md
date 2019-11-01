@@ -4,16 +4,16 @@ They have to submit their PR's containing **Solutions with Several Test Cases** 
 
 # Task :
 
-Ashish - [Save-The-Prisioner]()
+Ashish - [Save-The-Prisioner](https://github.com/ThinkBig-Data/Python/blob/master/Task_list/save-the-prisoner-English.pdf)
 
-Rakesh - [Desgner-Pdf-Viewer]()
+Rakesh - [Desgner-Pdf-Viewer](https://github.com/ThinkBig-Data/Python/blob/master/Task_list/designer-pdf-viewer-English.pdf)
 
-Mukul - [Strange-Advertisement]()
+Mukul - [Strange-Advertisement](https://github.com/ThinkBig-Data/Python/blob/master/Task_list/strange-advertising-English.pdf)
 
-Sudhir - [The-Hurdle-Race]()
+Sudhir - [The-Hurdle-Race](https://github.com/ThinkBig-Data/Python/blob/master/Task_list/the-hurdle-race-English.pdf)
 
-Yash - [Electronics-Shop]()
+Yash - [Electronics-Shop](https://github.com/ThinkBig-Data/Python/blob/master/Task_list/electronics-shop-English.pdf)
 
-Deepak - [Between-Two-Sets]()
+Deepak - [Between-Two-Sets](https://github.com/ThinkBig-Data/Python/blob/master/Task_list/between-two-sets-English.pdf)
 
-Arjun - [Day-of-the-Programmer]() 
+Arjun - [Day-of-the-Programmer](https://github.com/ThinkBig-Data/Python/blob/master/Task_list/day-of-the-programmer-English.pdf) 
