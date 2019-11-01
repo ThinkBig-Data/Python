@@ -1,6 +1,10 @@
 # :memo: Description :
-Task are bsically a simple hackerrank problem assigned to a contributor once per month.
-They have to submit their PR's containing **Solutions with Several Test Cases** by the end of the month to continue thier membership in ThinkBig Data Github Dev Team  :innocent:
+Task are a simple hackerrank problem assigned to a contributor once per month.
+
+Contributors have to submit their PR's containing **Solutions with Several Test Cases** by the end of the week to continue thier membership in 
+ThinkBig Data Github Dev Team  :innocent:
+
+Deadline : 10 Nov'2019
 
 # Task :
 
