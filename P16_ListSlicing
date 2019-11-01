@@ -1,13 +1,9 @@
+#! /bin/python
 # Lists can be thought of the most general version of a sequence in Python. Unlike strings, they are mutable. 
 1.) Creating lists
 2.) Indexing and Slicing Lists
 3.) Basic List Methods
 4.) Nesting Lists   
-
-
-
-
-
 
 # Assign a list to an variable named my_list
 my_list = [1,2,3]  #We just created a list of integers, but lists can actually hold different object types.
